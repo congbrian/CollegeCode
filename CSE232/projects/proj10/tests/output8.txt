@@ -1,0 +1,9 @@
+Got to:A on a 1
+Got to:A on a 1
+Got to:B on a 0
+Got to:C on a 0
+Got to:A on a 1
+Got to:B on a 0
+Got to:C on a 0
+
+accepted?: true

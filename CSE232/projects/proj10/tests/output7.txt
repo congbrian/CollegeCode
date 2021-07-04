@@ -1,0 +1,2 @@
+B
+A has no transition on input X

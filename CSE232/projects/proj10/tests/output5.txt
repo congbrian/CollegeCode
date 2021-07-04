@@ -1,0 +1,5 @@
+Start:A, Finish:C, Present:A
+A: on 0 -> B, on 1 -> A
+B: on 0 -> C, on 1 -> A
+C: on 0 -> C, on 1 -> A
+

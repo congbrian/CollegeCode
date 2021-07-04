@@ -1,0 +1,2 @@
+A: on 0 -> B, on 1 -> A
+X doesn't exist

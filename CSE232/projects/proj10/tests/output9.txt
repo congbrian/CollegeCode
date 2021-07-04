@@ -1,0 +1,19 @@
+Start:A, Finish:C, Present:A
+A: on 0 -> B, on 1 -> A
+B: on 0 -> C, on 1 -> A
+C: on 0 -> C, on 1 -> A
+
+Got to:A on a 1
+Got to:A on a 1
+Got to:B on a 0
+Got to:C on a 0
+Got to:A on a 1
+Got to:A on a 1
+Got to:B on a 0
+
+accepted?: false
+Start:A, Finish:C, Present:B
+A: on 0 -> B, on 1 -> A
+B: on 0 -> C, on 1 -> A
+C: on 0 -> C, on 1 -> A
+
