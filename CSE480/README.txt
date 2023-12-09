@@ -42,9 +42,9 @@ Install required modules and then run .py files.
 
 Brian Cong – bcong@emich.edu
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: https://github.com/Taichi22/CollegeCode/tree/23fe17e126fe2a934ea95bc0afcc369345e2100e/CSE480
 
 ## Acknowledgements
 
-- List any other contributors, inspirations, or third-party resources you used in the project.
-- You might also want to thank anyone who helped with the project.
+- Thanks to Dr. Spantidi for assisting with ideas and code consultation.
+- Thanks to GPT for helping to generate a README template.
